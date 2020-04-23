@@ -1,0 +1,5 @@
+body {font-size: 120% ;}
+p.easy { background: #FFFFFF; }
+p.easy { display: none; }
+p.medium { background: #D3D3D3; }
+p.difficult { background: #fed8b1 ; }
